@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug SCADA Dashboard",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/Industrial-SCADA-Dashboard",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/build",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb"
+        }
+    ]
+}
