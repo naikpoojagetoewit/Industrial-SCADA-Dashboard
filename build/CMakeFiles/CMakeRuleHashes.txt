@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+89c7241d9c0d73ab891916b07bcc9a13 CMakeFiles/Industrial-SCADA-Dashboard_autogen
+33bc6d628a1aa2942bf4438b037bcf2b Industrial-SCADA-Dashboard_autogen/3YJK5W5UP7/qrc_resources.cpp
+a1140b35255d019db51cf96b25928d2d Industrial-SCADA-Dashboard_autogen/timestamp

@@ -1,0 +1,136 @@
+/* ============================================================
+   Industrial SCADA Dashboard - Dark Industrial Theme
+   ============================================================ */
+
+QWidget {
+    background-color: #12181f;
+    color: #e8eef5;
+    font-family: "Segoe UI", "Consolas", sans-serif;
+    font-size: 10pt;
+}
+
+QMainWindow {
+    background-color: #0d1218;
+}
+
+QGroupBox {
+    border: 1px solid #2a3644;
+    border-radius: 6px;
+    margin-top: 14px;
+    padding-top: 10px;
+    font-weight: bold;
+    color: #9fb0c2;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    left: 12px;
+    padding: 0 6px;
+    color: #6fb7ff;
+}
+
+QLabel#digitalReadout {
+    font-size: 16pt;
+    font-weight: bold;
+    color: #6fb7ff;
+    padding: 4px;
+}
+
+QLabel#alarmBanner {
+    background-color: #1c2a1c;
+    border: 1px solid #2f4a2f;
+    border-radius: 4px;
+    font-weight: bold;
+    color: #8fdc8f;
+}
+
+QLabel#alarmBanner[severity="warning"] {
+    background-color: #3a3210;
+    border: 1px solid #6b5c1a;
+    color: #ffcc66;
+}
+
+QLabel#alarmBanner[severity="critical"] {
+    background-color: #3a1414;
+    border: 1px solid #6b1a1a;
+    color: #ff6666;
+}
+
+QLabel#healthLabel[state="alarm"] {
+    color: #ff6666;
+    font-weight: bold;
+}
+
+QPushButton {
+    background-color: #1c2530;
+    border: 1px solid #3a4a5c;
+    border-radius: 4px;
+    padding: 8px 16px;
+    color: #e8eef5;
+}
+
+QPushButton:hover {
+    background-color: #263141;
+    border: 1px solid #4a6a8c;
+}
+
+QPushButton:pressed {
+    background-color: #14191f;
+}
+
+QPushButton:disabled {
+    color: #556677;
+    border: 1px solid #2a3644;
+}
+
+QPushButton#startButton {
+    background-color: #16351e;
+    border: 1px solid #2e6b3f;
+}
+
+QPushButton#startButton:hover {
+    background-color: #1d4527;
+}
+
+QPushButton#stopButton {
+    background-color: #35181a;
+    border: 1px solid #6b2e33;
+}
+
+QPushButton#stopButton:hover {
+    background-color: #45222a;
+}
+
+QListWidget {
+    background-color: #0d1218;
+    border: 1px solid #2a3644;
+    border-radius: 4px;
+}
+
+QStatusBar {
+    background-color: #0d1218;
+    border-top: 1px solid #2a3644;
+}
+
+QDialog {
+    background-color: #12181f;
+}
+
+QDoubleSpinBox {
+    background-color: #1c2530;
+    border: 1px solid #3a4a5c;
+    border-radius: 3px;
+    padding: 4px;
+    color: #e8eef5;
+}
+
+QScrollBar:vertical {
+    background: #12181f;
+    width: 10px;
+}
+
+QScrollBar::handle:vertical {
+    background: #3a4a5c;
+    border-radius: 5px;
+    min-height: 20px;
+}
