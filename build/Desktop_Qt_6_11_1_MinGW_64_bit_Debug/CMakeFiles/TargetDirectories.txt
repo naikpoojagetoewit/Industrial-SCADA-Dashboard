@@ -1,5 +1,0 @@
-C:/Dev/Industrial-SCADA-Dashboard/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/Industrial-SCADA-Dashboard.dir
-C:/Dev/Industrial-SCADA-Dashboard/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
-C:/Dev/Industrial-SCADA-Dashboard/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
-C:/Dev/Industrial-SCADA-Dashboard/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/Industrial-SCADA-Dashboard_autogen_timestamp_deps.dir
-C:/Dev/Industrial-SCADA-Dashboard/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/Industrial-SCADA-Dashboard_autogen.dir
