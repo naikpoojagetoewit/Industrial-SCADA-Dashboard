@@ -1,5 +1,0 @@
-C:/Dev/Industrial-SCADA-Dashboard/build/CMakeFiles/Industrial-SCADA-Dashboard.dir
-C:/Dev/Industrial-SCADA-Dashboard/build/CMakeFiles/edit_cache.dir
-C:/Dev/Industrial-SCADA-Dashboard/build/CMakeFiles/rebuild_cache.dir
-C:/Dev/Industrial-SCADA-Dashboard/build/CMakeFiles/Industrial-SCADA-Dashboard_autogen_timestamp_deps.dir
-C:/Dev/Industrial-SCADA-Dashboard/build/CMakeFiles/Industrial-SCADA-Dashboard_autogen.dir
